@@ -39,7 +39,7 @@ imageBox.appendChild(loadingMessage);
 
 try {
     // Request goes to our own Node.js backend.
-    const response = await fetch("/api/generate", {
+    const response = await fetch("https://ai-image-generator.guptapratishtha98.workers.dev/generate", {
         method: "POST",
         headers: {
             "Content-Type": "application/json"
