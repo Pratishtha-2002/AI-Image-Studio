@@ -1,3 +1,4 @@
+#  AI IMAGE STUDIO
 
 * Developed an AI Image Generator web application using HTML, CSS, and JavaScript.
 * Created a user-friendly interface for entering text prompts and generating images.
