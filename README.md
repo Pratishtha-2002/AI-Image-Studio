@@ -1,3 +1,5 @@
+AI IMAGE STUDIO
+
 * Developed an AI Image Studio web application using HTML, CSS, and JavaScript.
 * Built a responsive user interface for entering text prompts and generating AI images.
 * Used **Node.js** to develop the backend and handle image generation requests.
